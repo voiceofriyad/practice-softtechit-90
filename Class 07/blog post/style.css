@@ -1,0 +1,26 @@
+body{
+	background-color: gray;
+}
+.post{
+	background-color: black;
+	width:800px;
+	margin: 0px auto;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 30px;
+	padding-bottom: 50px;
+}
+.post h1{
+	font-family: forte;
+	font-size:45px;
+	color:white;
+	text-align: center;
+}
+.post img{
+	width: 450px;
+}
+.post p{
+	color: yellow;
+	text-align: justify;
+	font-family: candara;
+}
